@@ -43,4 +43,10 @@ main li img {
   color: rgb(5, 215, 215);
   font-weight: bold;
   text-decoration: none;
+  padding: 5px;
+}
+
+.actions a:hover {
+  background-color: rgb(222, 237, 237);
+  border-radius: 5px;
 }
